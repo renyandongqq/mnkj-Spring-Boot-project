@@ -8,6 +8,7 @@ class MnkjApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
